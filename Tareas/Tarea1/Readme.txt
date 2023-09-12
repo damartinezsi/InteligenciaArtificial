@@ -7,6 +7,7 @@ Cordialmente,
 --
 Diego Alberto Martínez Simbaqueva
 damartinezsi@unal.edu.co
+Estudiante de Maestria en Ciencias - Estadística
 Auxiliar docente - Facultad de Ciencias
 Profesional de apoyo GEA y EPT
 Dirección Académica
